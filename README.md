@@ -1,5 +1,5 @@
 <h2>Simple DDD Structure</h2>
-
+```
 ├── src
 │   ├── App
 │   │    ├── Console
@@ -11,3 +11,4 @@
 │   │     ├── Models
 └── └── Services
           ├── SomeServices
+```
