@@ -2,7 +2,7 @@
 
 
 ```
-...
+
 ├── src
 │   ├── App
 │   │    ├── Console
@@ -14,5 +14,5 @@
 │   │     ├── Models
 └── └── Services
           ├── SomeServices
-...
+
 ```
